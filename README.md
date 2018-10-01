@@ -5,6 +5,7 @@ Frobenius primality test. See details in arXiv:1807.07249 [math.NT]:
        (c)Sergei Khashin khash2@gmail.com
 
 This is a probabilistic method.
+
    The numbers on which it is wrong are called Frobenius pseudoprimes (FPP).
    Have been proved:
    a) There are no FPP < 2^64.
