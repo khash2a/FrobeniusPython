@@ -19,4 +19,5 @@ c) There is no known FPP at all.
 There is a hypothesis that FPP does not exist at all.
 
 see also:
+   http://arxiv.org/abs/1807.07249
    https://en.wikipedia.org/wiki/Frobenius_pseudoprime
